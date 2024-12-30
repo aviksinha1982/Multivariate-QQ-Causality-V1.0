@@ -5,9 +5,15 @@ This code is developed in Excel VBA Macro with Matlab integration. The data shou
 The first version of the code assumes lag length to be 1.
 
 The transformations to be used:
+
 REN: No Transformation
+
 GB: No Transformation
+
 INN: No Transformation
+
 INF: Log Transformation
+
 VIX: Log Transformation
+
 CPU: Log Transformation
