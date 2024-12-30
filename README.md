@@ -1,19 +1,9 @@
 This code is a part of the manuscript "Modeling Renewable Energy Market Performance under Climate Policy Uncertainty: A Novel Multivariate Quantile Causality Analysis".
 
-This code is developed in Excel VBA Macro with Matlab integration. The data should be kept in a .csv format with the required variables only. Keeping extra variables will hinder the Macro from running.
+This code is developed in Excel VBA Macro with Matlab integration. The data should be kept in a .csv format with the required variables only. Keeping extra variables will hinder the Macro from running. 
 
-The first version of the code assumes lag length to be 1.
+The code will produce both Unconditional and Conditional causality test outcomes. So, the dependent variable (Y), independent variables (X), and the control variable (CONTROL) are to be put in a .csv file for uploading.
 
-The transformations to be used:
+The first version of the code needs a lag length of 1.
 
-REN: No Transformation
-
-GB: No Transformation
-
-INN: No Transformation
-
-INF: Log Transformation
-
-VIX: Log Transformation
-
-CPU: Log Transformation
+The transformations to be used: REN, GB, INN: No Transformation || INF, VIX, CPU: Log Transformation
