@@ -6,4 +6,4 @@ The code will produce both Unconditional and Conditional causality test outcomes
 
 The first version of the code needs a lag length of 1.
 
-The transformations to be used: REN, GB, INN: No Transformation || INF, VIX, CPU: Log Transformation
+The transformations to be used: REN, GB, INN, NEE, FSLR, TPIC, CWEN, TSLA: No Transformation || INF, VIX, CPU: Log Transformation
