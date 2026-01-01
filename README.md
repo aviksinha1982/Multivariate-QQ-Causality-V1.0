@@ -1,4 +1,4 @@
-This code is a part of the manuscript "Modeling Renewable Energy Market Performance under Climate Policy Uncertainty: A Novel Multivariate Quantile Causality Analysis".
+This code is a part of the manuscript "Modeling Renewable Energy Market Performance under Climate Policy Uncertainty: A Novel Multivariate Quantile Causality Analysis" (https://onlinelibrary.wiley.com/doi/10.1111/risa.17714).
 
 This code is developed in Excel VBA Macro with Matlab integration. The data should be kept in a .csv format with the required variables only. Keeping extra variables will hinder the Macro from running. 
 
